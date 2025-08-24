@@ -1,5 +1,24 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "banaan@gmail.com",
+      "password": "$2a$10$mylgPh53MqhqPX4FzWR/juRvEBUoWAeLk0Q/ryEdfXOYnOph8yvUi",
+      "username": "banaan",
+      "id": 1
+    },
+    {
+      "email": "k3@gmail.com",
+      "password": "$2a$10$tW.k9xh8/4fLGlQMzUhq6eXfqjiuPnFPc0oRInorSEwd3fXH71sFi",
+      "username": "ojalele",
+      "id": 2
+    },
+    {
+      "email": "hallo@gmail.com",
+      "password": "$2a$10$fhU5U/L0tJDUKArQ1.VdmOYggrZ0itP9OBqmTCGOPTLn5xvTu8I9W",
+      "username": "goededag",
+      "id": 3
+    }
+  ],
   "private-content": {
     "title": "Het geheim achter een goed cijfer",
     "content": "Hoge cijfers halen doe je niet door goed je best te doen of hard te studeren. Een hoog cijfer haal je natuurlijk alleen door erachter te komen wie jouw eindopdracht nakijkt, en diegene erg veel chocolaatjes en bloemen te sturen."
